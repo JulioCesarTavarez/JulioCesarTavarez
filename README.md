@@ -6,11 +6,12 @@ I'm Julio Cesar Tavarez, a student at Brigham Young University-Idaho. I am inter
 
 - I am currently working on my C++ and PostgreSQL
 - My goals are to become certified in PostgreSQL and get an internship
-- i am Python entry level certified through Python institute.
+- I am Python entry level certified through Python institute.
 ## Technologies and Tools
 
-- Proficient in: Python, plSQL, PotgreSQL MySQL, C++, C#, Visual Studio Code/Comunity, JetBrain Raider.
-- Skills: I speak spanish and English
+- Proficient in: Python, plSQL, PotgreSQL MySQL, C++, C#
+- Technologies: Visual Studio Code/Comunity, JetBrain Raider, SQL Server Manegment Studios, MYSQL Workbench.
+- languages: Spanish and English
 
 ## Let's Connect!
 
