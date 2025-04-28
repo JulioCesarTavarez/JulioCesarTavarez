@@ -1,6 +1,6 @@
 Hello, GitHub! 👋
 
-I'm Julio Cesar Tavarez, a student at Brigham Young University-Idaho. I am interested in Software Engineering, Database Engineering and Data Analisys 
+I'm Julio Cesar Tavarez, a student at Brigham Young University-Idaho. I am interested in Software Engineering, Database Engineering, Fullstack, or Backend Development
 
 ## About Me
 
