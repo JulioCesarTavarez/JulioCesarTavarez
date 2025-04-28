@@ -4,18 +4,17 @@ I'm Julio Cesar Tavarez, a student at Brigham Young University-Idaho. I am inter
 
 ## About Me
 
-- I am currently working on my C++ and PostgreSQL
-- My goals are to become certified in PostgreSQL and get an internship
+- I am currently working on C++ Node.js andtrying to become certified in AWS Cloud Practitioner
 - I am Python entry level certified through Python institute.
+
 ## Technologies and Tools
 
-- Proficient in: Python, plSQL, PotgreSQL MySQL, C++, C#
+- Proficient in: HTML, CSS, Javascrypt, Python, plSQL, PotgreSQL MySQL, C++, C#
 - Technologies: Visual Studio Code/Comunity, JetBrain Raider, SQL Server Manegment Studios, MYSQL Workbench.
-- languages: Spanish and English
+- Communication languages: Spanish and English
 
 ## Let's Connect!
 
 - Here is my [LinkedIn] www.linkedin.com/in/tavarzjulio
-- Here is my [DataCamp] https://www.datacamp.com/portfolio/tavarezjulio2020
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
